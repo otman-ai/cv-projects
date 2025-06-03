@@ -18,7 +18,7 @@ This repo is using [VOC dataset](https://paperswithcode.com/dataset/pascal-voc) 
 ## Training
 
 ```
-python train.py --epoch 3 --output_dir [OUTPUT_DIR] --model_name [MODEL_NAME] --batch_size [BATCH_SIZE] --annotation_path [ANNOTATION_PATH] --lr [LEARNING_RATE] --images_path [IMAGES_PATH] --seed [SEED] --early_stopping [EARLY_STOPPING] --dataset_path [DATASET_PATH] --train_ratio [TRAIN_RATIO] --momentum [MOMENTUM] --wieght_decay [WIEGHT_DECAY]
+python train.py --epoch [EPOCHS] --output_dir [OUTPUT_DIR] --model_name [MODEL_NAME] --batch_size [BATCH_SIZE] --annotation_path [ANNOTATION_PATH] --lr [LEARNING_RATE] --images_path [IMAGES_PATH] --seed [SEED] --early_stopping [EARLY_STOPPING] --dataset_path [DATASET_PATH] --train_ratio [TRAIN_RATIO] --momentum [MOMENTUM] --wieght_decay [WIEGHT_DECAY]
 ```
 
 

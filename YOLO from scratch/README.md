@@ -1,5 +1,5 @@
 # YOLOv1 from scratch (Work on progress)
-This is the implementation of this [paper](https://arxiv.org/abs/1506.02640) . 
+This is the implementation of this [paper](https://arxiv.org/abs/1506.02640) which I summeries [here](https://medium.com/@otmanheddouchai/summary-of-you-only-look-once-unified-real-time-object-detection-yolov1-70fb0fafaea1?source=user_profile_page---------0-------------e7d361ca183e----------------------) 
 
 ## TODO 
 - [ ] Make the model more accurate

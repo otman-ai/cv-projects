@@ -10,6 +10,11 @@ This is the implementation of this [paper](https://arxiv.org/abs/1506.02640) .
 
 `pip install -r requirements.txt`
 
+
+## Dataset
+
+This repo is using [VOC dataset](https://paperswithcode.com/dataset/pascal-voc) to train the model but you are welcome to use your own
+
 ## Training
 
 ```
